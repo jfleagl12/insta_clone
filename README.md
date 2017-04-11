@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# insta_clone
+Instagram clone
+>>>>>>> 16851109ba08499d45c662cad974db656fac3e7c
